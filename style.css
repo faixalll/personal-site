@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#first{
+    height: 100vh;
+    width: 100%;
+    background-color: #BAD8B6;
+}
+.html-pic{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+  left: 80px;
+  top: 20px;
+}
+.css-pic{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+  right: 80px;
+  top: 20px;
+}
+#text-c{
+    color: #3C3D37;
+    font-family: "Playwrite IN", serif;
+    font-weight: bolder;
+}
+.pro{
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
+.desk{
+    margin-top: 40px;
+    height: 250px;
+    width:  400px;
+    border-radius: 10%;
+    
+}
+.ptext{
+    margin-top: 20px;
+    font-size: large;
+    font-weight: 300;
+    font-family: "Playwrite IN", serif;
+}
+.you{
+    text-decoration: underline;
+
+}
+#second{
+    background-color: white;
+}
+#pic{
+    height: 200px;
+    width: 200px;
+    border-style: none;
+    border-radius: 50%;
+      
+}
+#button-c{
+    background-color: #BAD8B6;
+    color: #3C3D37;
+    font-weight: 500;
+}
+#fifth{
+    background-color: #BAD8B6;
+}
+#hov:hover{
+    background-color: white;
+}
